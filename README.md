@@ -1,6 +1,8 @@
 # Sistema de Pricing Predictivo para PLD
 ### Modelado de riesgo, elasticidad de tasa y optimización de margen — Préstamo de Libre Disponibilidad (Perú)
 
+![tests](https://github.com/VicenteFran19/pricing-pld-ml/actions/workflows/tests.yml/badge.svg)
+
 ## El problema
 
 En banca retail, definir la tasa de un crédito no es solo "cuánto puedo
